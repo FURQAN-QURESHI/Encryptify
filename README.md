@@ -24,3 +24,14 @@ You can choose the **cipher type**, **mode (Encrypt/Decrypt)**, and **enter a ke
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+
+### 2. Install required packages
+
+```bash
+pip install streamlit
+
+### 3. Run the app
+
+```bash
+streamlit run Encryptify.py
+
